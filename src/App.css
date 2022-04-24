@@ -183,7 +183,7 @@ span {
     -moz-user-select: none;
     -webkit-user-select: none;
     -ms-user-select: none;
-    height: 60px;
+    height: 100px;
 }
 
 .set-score-btn {
@@ -192,7 +192,12 @@ span {
 
 #marine-img {
     position: absolute;
-    top: 80%;
+    top: 82%;
     left: 50%;
     transform: translate(-50%, -50%);
+    height: 155px;
+}
+
+.currectWallet {
+    color:red;
 }
